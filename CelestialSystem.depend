@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1556715521 source:h:\projects\solarsystem\main.cpp
+	<cmath>
+	<GL/glut.h>
+	<stdlib.h>
+	<cstdio>
+	<string>
+
+1066736514 c:\tdm-gcc-32\freeglut-3.0.0\include\gl\glut.h
+	"freeglut_std.h"
+
+1413563304 c:\tdm-gcc-32\freeglut-3.0.0\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1556715521 source:h:\projects\celestialsystem\main.cpp
+	<cmath>
+	<GL/glut.h>
+	<stdlib.h>
+	<cstdio>
+	<string>
+
